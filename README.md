@@ -19,8 +19,8 @@
 - Statistics about files and the platform.
 
 ## Installation
-With just a few simple steps, you can install the web app on all services and platforms that support ASP.NET.(IIS, Docker, Azure App Service, Kestrel Web Server, AWS Elastic Beanstalk, Shared Hosting, On-Premises Server
-(Instructions will be posted soon, stay tuned.)
+With just a few simple steps, you can install the web app on all services and platforms that support ASP.NET.(IIS, Docker, Azure App Service, Kestrel Web Server, AWS Elastic Beanstalk, Shared Hosting, On-Premises Server)
+(!Instructions will be posted soon, stay tuned!)
 
 ## Usage
 (Instructions will be posted soon, stay tuned.)
