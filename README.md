@@ -17,6 +17,9 @@
 - Add watermarks to images.
 - Supports maintenance and regular messages with file reporting system.
 - Statistics about files and the platform.
+  
+- ## Releases
+The platform will be launched as soon as possible (only a few final touches remain)
 
 ## Installation
 With just a few simple steps, you can install the web app on all services and platforms that support ASP.NET.(IIS, Docker, Azure App Service, Kestrel Web Server, AWS Elastic Beanstalk, Shared Hosting, On-Premises Server)
