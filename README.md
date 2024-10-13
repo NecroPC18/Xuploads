@@ -1,5 +1,5 @@
 # Xuploads
--A web application built on Asp.net (VB.net), an advanced, fast and feature-rich platform that makes uploading and downloading files easy, simple, efficient and with unique and competitive features.
+-A web application built on ASP.net (VB.net), an advanced, fast and feature-rich platform that makes uploading and downloading files easy, simple, efficient and with unique and competitive features.
 
 ## Features
 - File uploads with expiration.
