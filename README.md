@@ -16,8 +16,8 @@
 - Add watermarks to images.
 - Supports maintenance and regular messages with file reporting system.
 - Statistics about files and the platform.
-  
-- ## Releases
+
+## Releases
 The platform will be launched as soon as possible (only a few final touches remain)
 
 ## Installation
