@@ -15,8 +15,15 @@
 - User control over the file he uploads.
 - Multiple security mechanisms and layers.
 - Add watermarks to images.
-- Supports maintenance and regular messages with file reporting system.
+- Supports maintenance and regular messages.
+- file reporting system.
+- UTF8 Encoding.
 - Statistics about files and the platform.
+- Cache system.
+- Adjustable waiting period for downloading.
+- IP banning System.
+- Limited upload space.
+- File type and size control system.
 
 ## Releases
 The platform will be launched as soon as possible (only a few final touches remain)
