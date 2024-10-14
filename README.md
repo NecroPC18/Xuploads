@@ -1,4 +1,4 @@
-![Initial logo for the platform, all suggestions are welcome](https://i.postimg.cc/pXFhJx05/Xuploads.png)
+<center>![Initial logo for the platform, all suggestions are welcome](https://i.postimg.cc/pXFhJx05/Xuploads.png)</center>
 # Xuploads
 -A web application built on ASP.net (VB.net), an advanced, fast and feature-rich platform that makes uploading and downloading files easy, simple, efficient and with unique and competitive features.
 
