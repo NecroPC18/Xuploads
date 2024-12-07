@@ -27,7 +27,27 @@
 - IP banning System.
 - Limited upload space.
 - File type and size control system.
+- Bootstrap integration
+- FTP Storage integration
+- Powerful API "XUAPI (Xuploads API)"
+- Upload files from links.
+- Inactive and expired files deletation and managment.
+- Controlling Uploads.
+- Virustotal integration
+- Unwanted content monitoring.
+- Adititional header and footer.
 
+## Introducing XUAPI
+
+XUAPI (Xuploads API) is an extension of the Xuploads platform that empowers developers to integrate its functionality into their applications. Released as a part of the Xuploads project, XUAPI brings automation and scalability to file management.
+
+Current Features of XUAPI
+File Upload from a Link: Allows developers to upload files directly from a URL, making it perfect for automating workflows.
+File Upload from a Posted File: Supports uploading files via HTTP POST requests, enabling seamless integration with external applications.
+Metadata Control: Developers can specify file expiry dates and descriptions during uploads.
+Flexible Configurations: XUAPI works seamlessly with Xuploads, supporting different upload locations and configurations for specific needs.
+Planned Features
+Deletion Method: Future updates will include API support for deleting files programmatically, enhancing remote file management capabilities.
 ## Releases
 The platform will be launched as soon as possible (only a few final touches remain)
 
