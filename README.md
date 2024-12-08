@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.postimg.cc/pXFhJx05/Xuploads.png" alt="My Image" width="400"/>
+    <img src="[https://i.postimg.cc/pXFhJx05/Xuploads.png](https://i.ibb.co/fGT4TWg/Xuploads.png)" alt="My Image" width="400"/>
 </div>
 
 # Xuploads
