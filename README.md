@@ -8,6 +8,9 @@
 <div align="center">
     <img src="https://www2.0zz0.com/2024/12/08/21/230546268.png" alt="My Image" width="1000"/>
 </div>
+<div align="center">
+    <img src="https://www2.0zz0.com/2024/12/08/21/575089408.png" alt="My Image" width="1000"/>
+</div>
 # Xuploads
 -A web application built on ASP.net (VB.net), an advanced, fast and feature-rich platform that makes uploading and downloading files easy, simple, efficient and with unique and competitive features.
 
