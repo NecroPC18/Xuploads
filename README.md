@@ -51,17 +51,36 @@
 
 ## Introducing XUAPI
 
-XUAPI (Xuploads API) is an extension of the Xuploads platform that empowers developers to integrate its functionality into their applications. Released as a part of the Xuploads project, XUAPI brings automation and scalability to file management.
+XUAPI (Xuploads API) is a powerful and flexible interface designed to seamlessly integrate with the Xuploads platform. It provides programmatic access to the core functionalities of Xuploads, allowing developers and external systems to interact with files, perform operations like uploading, renaming, or retrieving file information, and manage content in a secure and efficient way.
 
-Current Features of XUAPI
-File Upload from a Link: Allows developers to upload files directly from a URL, making it perfect for automating workflows.
-File Upload from a Posted File: Supports uploading files via HTTP POST requests, enabling seamless integration with external applications.
-Metadata Control: Developers can specify file expiry dates and descriptions during uploads.
-Flexible Configurations: XUAPI works seamlessly with Xuploads, supporting different upload locations and configurations for specific needs.
-Planned Features
-Deletion Method: Future updates will include API support for deleting files programmatically, enhancing remote file management capabilities.
-## Releases
-The platform will be launched as soon as possible (only a few final touches remain)
+-What is XUAPI?
+XUAPI extends the capabilities of Xuploads by enabling users to:
+
+Automate file uploads and management.
+Build custom applications that leverage Xuploads' features.
+Integrate Xuploads functionalities into third-party systems, such as CRMs, project management tools, or file-sharing services.
+Whether you're managing file uploads for a website, creating a mobile application, or automating workflows, XUAPI provides the tools you need.
+
+-Key Features of XUAPI:
+File Uploading:
+
+*Supports uploading files from both local storage and URLs.
+*Allows optional metadata, such as file descriptions, expiration dates, and password protection.
+File Management:
+
+*Rename files with a single API call.
+*Replace existing files with new versions.
+*Delete files securely using unique identifiers.
+
+*Information Retrieval:
+
+Fetch detailed information about uploaded files, including size, type, upload date, and more.
+Secure Operations:
+
+All sensitive operations (e.g., delete, rename) require unique identifiers, ensuring only authorized users can perform actions.
+
+*Customizable and Scalable:
+Fully integrated with Xuploads' settings, including file size limits, allowed extensions, and expiration policies.
 
 ## Installation
 With just a few simple steps, you can install the web app on all services and platforms that support ASP.NET.(IIS, Docker, Azure App Service, Kestrel Web Server, AWS Elastic Beanstalk, Shared Hosting, On-Premises Server)
