@@ -1,0 +1,31 @@
+{
+  "updates": {
+    "desktopApp": {
+      "version": "2.3.1",
+      "changelog": [
+        "Fixed UI freezing on login",
+        "Added export to Excel",
+        "Improved offline support"
+      ],
+      "downloadUrl": "https://example.com/downloads/desktopApp-v2.3.1.zip"
+    },
+    "database": {
+      "version": "1.7.0",
+      "changelog": [
+        "Added attendance_logs table",
+        "Modified student table: added email field",
+        "Created stored procedure for daily summary"
+      ],
+      "downloadUrl": "https://example.com/downloads/dbMigration-v1.7.0.zip"
+    },
+    "api": {
+      "version": "1.5.4",
+      "changelog": [
+        "Added /parent/notifications endpoint",
+        "Optimized session marking logic",
+        "Fixed bug in role-based filtering"
+      ],
+      "downloadUrl": "https://example.com/downloads/api-v1.5.4.zip"
+    }
+  }
+}
